@@ -1,3 +1,22 @@
+@font-face
+{
+	font-family:BHoma;
+	src:url(../font/BHoma.ttf);
+}
+
+h1
+{
+	font-family:BHoma;
+color:red;
+}
+h2
+{
+color:green;
+}
+h3
+{
+color:blue;
+}
 #box
 {
 width:300px;
